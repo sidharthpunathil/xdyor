@@ -1360,7 +1360,7 @@ input[type='checkbox'] {
 .footer h5,
 .footer ul,
 .footer a {
-	color: #999;
+	color: rgb(0, 0, 0);
 }
 
 .footer a {
