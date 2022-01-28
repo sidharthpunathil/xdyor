@@ -35,4 +35,6 @@ document.addEventListener("DOMContentLoaded", function () {
     .addEventListener("click", function () {
       document.querySelector(".messages-section").classList.remove("show");
     });
+
+
 });
